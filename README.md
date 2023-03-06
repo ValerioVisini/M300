@@ -10,10 +10,10 @@ Nachdem ich VirtualBox und Vagrant installiert habe konnte ich eine Test VM inst
 
 Vagrant kann nun genutz werden um VMs automatisiert zu erstellen ohne GUI
 Folgende Commands habe ich für die erstellung eingegeben
-´´´
+```
 vagrant init ubuntu/xenial64
 vagrant up --provider virtualbox
-´´´
+```
 Der VM erstellungsprozess wird gestartet und kann schlussendlich in VirtualBox gesehen werden.
 
 ![image](https://user-images.githubusercontent.com/125886316/223126175-f47f51b7-c675-4b6f-afc2-386e0dca97f0.png)
