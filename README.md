@@ -15,7 +15,9 @@
 
 # VirtualBox
 VirtualBox ist ein Hypervisor Typ 2 von Oracle. 
+
 Mit diesem Hypervisor können Virtuelle Maschienen und Netzwerke erstellt werden.
+
 ![image](https://user-images.githubusercontent.com/125886316/223142724-e002532b-e87f-465a-a683-9348230b6580.png)
 
 # Vagrant
