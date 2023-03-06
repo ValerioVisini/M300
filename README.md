@@ -1,18 +1,15 @@
 # M300 Dokumentation
 ### Inhaltsverzeichnis
+1. Vagrant VM erstellen
+2. Vagrant Boxen
 
 
 
 
 
-# Grundlagen
+# Vagrant VM erstellen
 
-
-
-
-
-
-# LB2
+# Vagrant Boxen
 
 
 
