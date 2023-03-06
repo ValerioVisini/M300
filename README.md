@@ -1,8 +1,10 @@
 # M300 Dokumentation
 ### Inhaltsverzeichnis
 
-* Vagrant VM erstellen
-* Vagrant Boxen
+* Virtual Box
+* Vagrant
+** Vagrant VM erstellen
+** Vagrant Boxen
 
 
 # Vagrant VM erstellen
@@ -22,9 +24,8 @@ Der VM erstellungsprozess wird gestartet und kann schlussendlich in VirtualBox g
 Die VM kann man mit ```vagrant destroy -f``` gelösch werden 
 
 
-
-
 # Vagrant Boxen
-
+Vagrant Boxen sind Vorlagen für das erstellen von VMs.
+Vagrant hat bereits Vorlagen wie die "ubuntu/xenial64" Box welche ich z.B. für das installieren von einer Ubuntu VM verwendet habe
 
 
