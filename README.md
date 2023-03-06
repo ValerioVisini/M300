@@ -1,13 +1,20 @@
 # M300 Dokumentation
 ### Inhaltsverzeichnis
 
+* Theorie Wissensstand
+  * IaC
+  * Cloud
+  * Systemsicherheit 
 * Virtual Box
 * Vagrant
   * Vagrant VM erstellen
   * Vagrant Boxen
 
+
+# 
+
 # VirtualBox
-VirtualBox ist ein hypervisor typ 2 von Oracle. 
+VirtualBox ist ein Hypervisor Typ 2 von Oracle. 
 Mit diesem Hypervisor können Virtuelle Maschienen und Netzwerke erstellt werden.
 ![image](https://user-images.githubusercontent.com/125886316/223142724-e002532b-e87f-465a-a683-9348230b6580.png)
 
