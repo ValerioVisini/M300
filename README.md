@@ -3,8 +3,8 @@
 
 * Virtual Box
 * Vagrant
-** Vagrant VM erstellen
-** Vagrant Boxen
+  * Vagrant VM erstellen
+  * Vagrant Boxen
 
 
 # Vagrant VM erstellen
