@@ -97,9 +97,9 @@ Das VM file
 
 
 
-#LB2
+# LB2
 
-##Konzept
+## Konzept
 
 ![Zeichnung-LB2 drawio](https://user-images.githubusercontent.com/125886316/226170719-48f7535e-b70b-4712-8ce1-ffa7f8cb6d9a.png)
 
