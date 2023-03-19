@@ -1,20 +1,13 @@
-# M300 Dokumentation
+# M300 Dokumentation Valerio Visini
 ### Inhaltsverzeichnis
 
-* Theorie Wissensstand
-  * IaC
-  * Cloud
-  * Systemsicherheit 
 * Virtual Box
 * Vagrant
   * Vagrant VM erstellen
   * Vagrant Boxen
-
-
-# Theorie Wissensstand
-## IaC
-## Cloud
-## Systemsicherheit
+* LB2
+  * Konzept
+  * Vagrant File 
 
 
 # VirtualBox
@@ -105,6 +98,11 @@ Das VM file
 
 Es werden im Privaten V-Netzwerk zwei VMs erstellt für den Web und SQL Server. Die Firewall und der Reverse-Proxy laufen auf dem Web Server. Der Web Server Port 80 wird auf den Port 8080 forwarded und für den Web access wird der Localhost verwendet. 
 
+## Vagrant File
+
+## Sicherheitsaspekte
+
+## Testfälle
 
 
 
