@@ -94,3 +94,18 @@ Die Disk auf welcher die VM läuft.
 **ovf file**
 
 Das VM file
+
+
+
+#LB2
+
+##Konzept
+
+![Zeichnung-LB2 drawio](https://user-images.githubusercontent.com/125886316/226170719-48f7535e-b70b-4712-8ce1-ffa7f8cb6d9a.png)
+
+Es werden im Privaten V-Netzwerk zwei VMs erstellt für den Web und SQL Server. Die Firewall und der Reverse-Proxy laufen auf dem Web Server. Der Web Server Port 80 wird auf den Port 8080 forwarded und für den Web access wird der Localhost verwendet. 
+
+
+
+
+
