@@ -227,11 +227,6 @@ Erstellung der Umgebung mit "vagrant up". In dem Pfad "C:\Users\valer\VirtualBox
 
 ## Testfälle und Ergebnis
 
-![image](https://user-images.githubusercontent.com/125886316/226338564-3940c597-4d11-493f-85ee-39f79af77414.png)
-
-
-
-
 ### Test 1 Vagrant up
 #### Beschreibung
 Vagrant up durchführen mit dem erstellten Vagrant File, damit die Umgebung erstellt wird.
@@ -239,6 +234,8 @@ Vagrant up durchführen mit dem erstellten Vagrant File, damit die Umgebung erst
 Vagrant up ohne error.Zwei VMs installiert (Database, Web).
 #### Ist
 Vagrant up wurde erfolgreich beendet und die VMs wurden installiert.
+
+![image](https://user-images.githubusercontent.com/125886316/226338564-3940c597-4d11-493f-85ee-39f79af77414.png)
 
 ![image](https://user-images.githubusercontent.com/125886316/226344998-1cfe5f35-eb5f-4d65-9516-b24f711c7e48.png)
 
