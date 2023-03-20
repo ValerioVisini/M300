@@ -6,11 +6,6 @@
 * Vagrant
   * Vagrant VM erstellen
   * Vagrant Boxen
-* LB2
-  * Konzept MySQL und Web Server
-  * Vagrant File 
-  * Testfälle und Ergebnis
-  * Reflexion und Wissenszuwachs
 
 
 # VirtualBox
