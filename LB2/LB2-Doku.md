@@ -4,7 +4,7 @@
 * [Konzept](#Konzept)
 * [Vagrant](#Vagrant)
 * [Testfälle](#Testfälle)
-* ["Reflexion&Wissenszuwachs"](#Reflexion&Wissenszuwachs)
+* [Reflexion&Wissenszuwachs](#Reflexion&Wissenszuwachs)
 
 # Konzept
 
@@ -215,4 +215,7 @@ Der Reverse-Proxy ist installiert, aber es wurden keine Konfigurationen für die
 
 # Reflexion&Wissenszuwachs
 
-Anfangs hatte ich etwas Schwierigkeiten, weil ich Vagrant nicht ganz verstanden habe und mir war nicht ganz klar, was ich bei der LB2 genau machen muss. Nachdem ich nachgefragt habe konnte, ich es besser verstehen, was genau das Ziel ist und ich konnte anfangen verschiedene Dinge mit Vagrant auszuprobieren. Die Umsetzung dieser Umgebung hat an sich gut funktioniert, jedoch konnte ich alle Ideen umsetzen. Bei dem Proxy habe ich nicht genau herausgefunden, wie ich ihn genau in der Umgebung umsetzen kann, darum habe ich ihn nur installiert. Weitere Ideen wie HTTPS und SSH Tunnel habe ich ausprobiert, aber ich konnte es nicht funktionstüchtig implementieren und habe mich entschieden es nicht zu machen. Grundsätzlich habe ich gelernt, wie Vagrant funktioniert und wie man Umgebungen mit Code erstellen kann. Viele der Theorieteile wie Cloud oder Sicherheitsaspekte habe ich schon gekannt, das Praktische umsetzen dieser Themen konnte ich davor noch nicht. Bei der Dokumentation bin ich mir nicht ganz sicher, ob sie den Anforderungen entspricht, aber ich denke, dass ich alles Wichtige notiert habe.
+Anfangs hatte ich etwas Schwierigkeiten, weil ich Vagrant nicht ganz verstanden habe und mir war nicht ganz klar, was ich bei der LB2 genau machen muss. Nachdem ich nachgefragt habe konnte, ich es besser verstehen, was genau das Ziel ist und ich konnte anfangen verschiedene Dinge mit Vagrant auszuprobieren. Die Umsetzung dieser Umgebung hat an sich gut funktioniert, jedoch konnte ich alle Ideen umsetzen. Bei dem Proxy habe ich nicht genau herausgefunden, wie ich ihn genau in der Umgebung umsetzen kann, darum habe ich ihn nur installiert. Weitere Ideen wie HTTPS und SSH Tunnel habe ich ausprobiert, aber ich konnte es nicht funktionstüchtig implementieren und habe mich entschieden es nicht zu machen. Bei der Dokumentation bin ich mir nicht ganz sicher, ob sie den Anforderungen entspricht, aber ich denke, dass ich alles Wichtige notiert habe.
+
+Das meisten Wissenszuwachs habe ich bei Vagrant und IaC. Vor diesem Modul habe ich mich damit noch nicht ausgekannt und Vagrant war für mich auch neu. Nach diesem Projekt verstehe ich jetzt wie Vagrant genau funktioniert und kann es auch für einfachere Dinge anwenden. 
+Viele der Theorieteile wie Cloud oder Sicherheitsaspekte habe ich schon gekannt, aber ich hab diese Themen nie wirklich praktisch angewendet.
