@@ -7,8 +7,10 @@
   * Vagrant VM erstellen
   * Vagrant Boxen
 * LB2
-  * Konzept
+  * Konzept MySQL und Web Server
   * Vagrant File 
+  * Testfälle und Ergebnis
+  * Reflexion und Wissenszuwachs
 
 
 # VirtualBox
@@ -296,6 +298,6 @@ Reverse-Proxy ist installiert und verbessert die sicherheit des Web Servers.
 #### Ist
 Der Reverse-Proxy ist installiert, aber es wurden keine Konfigurationen für die verbesserung der Sicherheit vorgenommen.
 
-## Reflexion und Wisssenszuwachs
+## Reflexion und Wissenszuwachs
 
 Anfangs hatte ich etwas Schwierigkeiten, weil ich Vagrant nicht ganz verstanden habe und mir war nicht ganz klar, was ich bei der LB2 genau machen muss. Nachdem ich nachgefragt habe konnte, ich es besser verstehen, was genau das Ziel ist und ich konnte anfangen verschiedene Dinge mit Vagrant auszuprobieren. Die Umsetzung dieser Umgebung hat an sich gut funktioniert, jedoch konnte ich alle Ideen umsetzen. Bei dem Proxy habe ich nicht genau herausgefunden, wie ich ihn genau in der Umgebung umsetzen kann, darum habe ich ihn nur installiert. Weitere Ideen wie HTTPS und SSH Tunnel habe ich ausprobiert, aber ich konnte es nicht funktionstüchtig implementieren und habe mich entschieden es nicht zu machen. Grundsätzlich habe ich gelernt, wie Vagrant funktioniert und wie man Umgebungen mit Code erstellen kann. Viele der Theorieteile wie Cloud oder Sicherheitsaspekte habe ich schon gekannt, das Praktische umsetzen dieser Themen konnte ich davor noch nicht. Bei der Dokumentation bin ich mir nicht ganz sicher, ob sie den Anforderungen entspricht, aber ich denke, dass ich alles Wichtige notiert habe.
