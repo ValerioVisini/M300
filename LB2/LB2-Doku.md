@@ -4,7 +4,7 @@
 * [Konzept](#Konzept)
 * [Vagrant](#Vagrant)
 * [Testfälle](#Testfälle)
-* [Reflexion und Wissenszuwachs](#Reflexion und Wissenszuwachs)
+* ["Reflexion und Wissenszuwachs"](#Reflexion und Wissenszuwachs)
 
 # Konzept
 
