@@ -90,6 +90,10 @@ web.vm.synced_folder ".", "/var/www/html"
    a2enmod proxy_html
    a2enmod xml2enc
    service apache2 restart
+   
+   
+   
+   
 
    SHELL
     end  
@@ -208,7 +212,7 @@ Firewall ist aktiv und hat die Ports 22 und 80 geöffnet.
 #### Beschreibung
 Reverse-Proxy zwischen dem Web Server und den Webseiten Benutzern.
 #### Soll
-Reverse-Proxy ist installiert und verbessert die sicherheit des Web Servers.
+Reverse-Proxy ist installiert und aktiv.
 #### Ist
 Der Reverse-Proxy ist installiert, aber es wurden keine Konfigurationen für die verbesserung der Sicherheit vorgenommen.
 
