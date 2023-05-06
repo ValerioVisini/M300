@@ -8,6 +8,7 @@
 
 ## Umgebung
 Für diese Aufgabe habe ich Docker Desktop verwendet. Dieser ermöglicht mir Docker ohne eine Linux VM zu verwenden. Zusätzlich habe ich ein Grafisches Interface welches eine bessere übersicht ermöglicht.
+
 ![image](https://user-images.githubusercontent.com/125886316/236646923-5abdfc3c-733d-472c-924b-e9319d5e3d08.png)
 
 
@@ -143,8 +144,11 @@ docker-compose up command durchführen und dadurch die Container erstellen.
 command wird ohne Fehler durchgefürt und die Container sind erstellt.
 #### Ist
 Die Container konnten erstellt werden:
+
 ![image](https://user-images.githubusercontent.com/125886316/236648228-de065909-4da7-48b6-882e-7cd713ec13b7.png)
+
 ```docker-compose ps``` Ergebnis
+
 ![image](https://user-images.githubusercontent.com/125886316/236648260-c11dd0dc-dbc3-4efc-8be9-abd328afddf5.png)
 
 
@@ -155,6 +159,7 @@ Einloggen in den MySQL Container.
 Mann soll sich mit den angegeben docker-compose login Daten einloggen können.
 #### Ist
 Login ist möglich:
+
 ![image](https://user-images.githubusercontent.com/125886316/236648464-8703bb5d-0f0a-4982-9b83-c42b3390e505.png)
 
 
@@ -167,6 +172,7 @@ Webinterface von dem Prometheus Container.
 Zugriff auf Prometheus Webinterface über http://localhost:9090/ möglich.
 #### Ist
 Man kann auf das Webinterface zugreifen:
+
 ![image](https://user-images.githubusercontent.com/125886316/236648533-d5ad4ad5-876c-475a-b2d0-f650454c48a8.png)
 
 
@@ -178,6 +184,7 @@ Prometheus monitored MySQL.
 Prometheus hat eine Verbindung zum MySQL Container
 #### Ist
 Der MySQL Container wird monitored:
+
 ![image](https://user-images.githubusercontent.com/125886316/236648613-b0b5a6a7-9170-4e63-b36f-1b471125aee8.png)
 
 ## Reflexion&Wissenszuwachs
