@@ -161,8 +161,7 @@ Mann soll sich mit den angegeben docker-compose login Daten einloggen können.
 #### Ist
 Login ist möglich:
 
-![image](https://user-images.githubusercontent.com/125886316/236648464-8703bb5d-0f0a-4982-9b83-c42b3390e505.png)
-
+![99219b80-5314-478c-b97a-6b42f105853a](https://user-images.githubusercontent.com/125886316/236825577-582420f6-fcc0-49de-8c36-3b6331016fe9.jpg)
 
 
 
