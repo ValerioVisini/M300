@@ -1,0 +1,31 @@
+version: '3'
+
+services:
+  db:
+    image: mysql:latest
+    ports:
+      - "33033:33033"
+    environment:
+      MYSQL_ROOT_PASSWORD: secret
+      MYSQL_DATABASE: mydb
+      MYSQL_USER: myuser
+      MYSQL_PASSWORD: mypass
+
+  prometheus:
+    image: prom/prometheus:latest
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+
+  mysqlexporter:
+    image: prom/mysqld-exporter:latest
+    ports:
+      - "9104:9104"
+    environment:
+      DATA_SOURCE_NAME: root:secret@(db:3306)/mydb
+    volumes:
+      - ./mysql-exporter.yml:/etc/mysql-exporter/config.yml
+    command:
+      - "--config.my-cnf=/etc/mysql-exporter/config.cnf"
+      - "--web.listen-address=0.0.0.0:9104"
