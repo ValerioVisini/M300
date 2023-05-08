@@ -86,7 +86,7 @@ services:
 
 ```
 
-### pometheus.yml
+### prometheus.yml
 
 prometheus.yml Konfigurationen damit Prometheus weiss von welchen Quellen die Daaten gesammelt werden sollen:
 
