@@ -198,8 +198,8 @@ Der MySQL Container wird monitored:
 * Konfiguration von Containern 
 
 ### Reflexion
-Anfangs wusste ich noch nicht richtig was ich genau als Projekt machen soll und habe noch nicht richtig verstanden, was ich genau mit dieser Aufgabe erreichen soll. 
-
+Anfangs wusste ich noch nicht richtig, was ich genau als Projekt machen soll und habe noch nicht richtig verstanden, was ich genau mit dieser Aufgabe erreichen soll. Schlussendlich habe ich die Idee dem MySQL Container, welcher von einem Prometheus Container überwacht wird umgesetzt. Ich musste sehr viel googeln und suchen, damit ich ungefähr eine Idee bekommen habe, wie ich dieses Projekt umsetzen kann. Mit der Erstellung des MySQL Containers hatte ich wenig Probleme. Auch die Erstellung des Prometheus Containers war kein grosses Problem. Grosse Schwierigkeiten hatte ich bei der Überwachung des MySQL Containers. Ich habe dann herausgefunden, dass man dafür einen zusätzlichen mysql-exporter Container braucht. Zusätzlich musste ich noch eine yml. Config für den Exporter und Prometheus erstellen. Bis ich alles umsetzen konnte, hat es sehr viel Zeit und Nerven gebraucht. Schlussendlich hat alles funktioniert und ich bin sehr zufrieden mit meinem Ergebnis.
+Mit dem ganzen Projekt habe ich sehr viel über Docker gelernt und auch wenn viel nicht auf Anhieb funktioniert hat, bin ich glücklich darüber, dass ich ein gutes Endprodukt erreichen konnte.
 
 
 
