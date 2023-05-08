@@ -99,12 +99,12 @@ global:
 scrape_configs:
   - job_name: prometheus
     static_configs:
-      # rometheus Container
+      # Prometheus Container target
       - targets: ['localhost:9090']
 
   - job_name: mysql
     static_configs:
-      # MySQL Exporter Container 
+      # MySQL Exporter Container target
       - targets: ['mysqlexporter:9104']
 
 ```
@@ -136,6 +136,7 @@ Damit sollten alle Container aktiv sein.
 
 
 ## Testfälle
+Alle Tests wurden am 06.05.2023 durchgeführt.
 
 ### Test 1 Docker Compose up
 #### Beschreibung
@@ -192,14 +193,13 @@ Der MySQL Container wird monitored:
 
 ## Reflexion&Wissenszuwachs
 ### Neues Wissen
-*
-*
-*
-*
-*
+* Docker Desktop Umgebung kennengelernt
+* Docker Commands
+* Container
+* Konfiguration von Containern 
 
 ### Reflexion
-
+Anfangs wusste ich noch nicht richtig was ich genau als Projekt machen soll und habe noch nicht richtig verstanden, was ich genau mit dieser Aufgabe erreichen soll. 
 
 
 
