@@ -187,6 +187,9 @@ Der MySQL Container wird monitored:
 
 ![image](https://user-images.githubusercontent.com/125886316/236648613-b0b5a6a7-9170-4e63-b36f-1b471125aee8.png)
 
+![image](https://user-images.githubusercontent.com/125886316/236817760-8848b346-2024-4ef1-9275-647bdf234553.png)
+
+
 ## Reflexion&Wissenszuwachs
 ### Neues Wissen
 *
