@@ -1,0 +1,8 @@
+---
+config:
+  username: root
+  password: secret
+  datasource: "tcp(db:33033)/mydb"
+  collect.info_schema.INNODB_METRICS: "ON"
+  collect.global_status: "ON"
+  collect.global_variables: "ON"
